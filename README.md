@@ -31,7 +31,7 @@ This project is a cybersecurity application that detects phishing websites using
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/yourusername/phishing-url-detection.git
+git clone https://github.com/ehsanalii/phishing-url-detection.git
 ```
 
 Go to the project folder:
