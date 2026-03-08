@@ -1,0 +1,12 @@
+�^D�(^B^@^@^@^@^@^@�^Usklearn.tree._classes��^VDecisionTreeClassifier���)��}�(� criterion��^Dgini��^Hsplitter��^Dbest�� max_depth�N�^Qmin_samples_split�K^B�^>
+monotonic_cst�N�^Qfeature_names_in_��^Sjoblib.numpy_pickle��^QNumpyArrayWrapper���)��}�(�^Hsubclass��^Enumpy��^Gndarray����^Eshape�K^D���^Eorder��^AC��^Edtyp>
+allow_mmap���^[numpy_array_alignment_bytes�K^Pub�^E��^@^@^@^@^@^@^@�^Vnumpy._core.multiarray��^L_reconstruct����^Enumpy��^Gndarray���K^@��C^Ab���R�(K^AK^D��h>
+url_length��    has_https��
+has_at_symbol��^Ddots�et�b.�t^@^@^@^@^@^@^@�^Nn_features_in_�K^D�
+n_outputs_�K^A�^Hclasses_�h^W)��}�(h^Zh^]h^^K^B��h h!h"h$�^Bi8�����R�(K^C�^A<�NNNJ����J����K^@t�bh*�h+K^Pub
+����������^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@��^@^@^@^@^@^@^@�
+n_classes_��^Vnumpy._core.multiarray��^Fscalar���h4C^H^B^@^@^@^@^@^@^@���R��
+max_features_�K^D�^Etree_��^Rsklearn.tree._tree��^DTree���K^Dh^W)��}�(h^Zh^]h^^K^A��h h!h"h4h*�h+K^Pub^G�������^B^@^@^@^@^@^@^@��^A^@^@^@^@^@^@K^A��R�}�(h   >
+node_count�K^C�^Enodes�h^W)��}�(h^Zh^]h^^K^C��h h!h"h$�^CV64�����R�(K^Ch(N(�
+left_child��^Kright_child��^Gfeature��  threshold��^Himpurity��^Nn_node_samples��^Wweighted_n_node_samples��^Rmissing_go_to_left�t�}�(hQh$�^Bi8�����R�(K^Ch5N>
+^@^@^@^@^@^@^@^@^@^@^@^@^@$@^@^@^@^@^@^@^@^@������������������������^@^@^@^@^@^@^@�^@^@^@^@^@^@^@^@^E^@^@^@^@^@^@^@^@^@^@^@^@^@^T@^@^@^@^@^@^@^@^@�����������>
