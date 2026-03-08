@@ -26,15 +26,39 @@ This project is a cybersecurity application that detects phishing websites using
 - detect.py
 - model.pkl
 
-## How to Run
-1. Install required libraries  
-   pip install pandas scikit-learn joblib
+## Installation
 
-2. Train the model  
-   python train_model.py
+Clone the repository from GitHub:
 
-3. Run the detection program  
-   python detect.py
+```bash
+git clone https://github.com/yourusername/phishing-url-detection.git
+```
+
+Go to the project folder:
+
+```bash
+cd phishing-url-detection
+```
+
+Install the required libraries:
+
+```bash
+pip install pandas scikit-learn joblib
+```
+
+## Run the Project
+
+Train the machine learning model:
+
+```bash
+python train_model.py
+```
+
+Run the phishing detection program:
+
+```bash
+python detect.py
+```
 
 ## Author
 Student Cyber Security Project# phishing-url-detection
